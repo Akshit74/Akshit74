@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building and Learning MERN applications.
+Building and Learning with MERN.
 
 
 ## 🌐 Socials:
